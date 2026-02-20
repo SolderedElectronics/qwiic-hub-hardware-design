@@ -1,5 +1,5 @@
 SKU: 333018
-Full product name: EASYC HUB
+Full product name: qwiic Hub
 Country of origin: Croatia
 HS tariff code: 85340090
 EAN/UPC barcode: 732388674602
